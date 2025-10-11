@@ -14,7 +14,7 @@ i'm tiwinoh, a 13 year old developer with a passion for old technology. here are
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="web" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="web" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/minecraft-icon.png" alt="minecraft" width="40" height="40"/>
 </p>
 
