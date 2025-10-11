@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom rectangular button styles */
+.btn-rect {
+  @apply inline-block bg-blue-600 text-white font-semibold px-4 py-2; 
+  border-radius: 0; /* no rounded corners */
+}
+.btn-rect-outline {
+  @apply inline-block border border-gray-300 text-gray-800 font-semibold px-4 py-2; 
+  border-radius: 0;
+}
