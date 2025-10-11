@@ -1,4 +1,3 @@
-```markdown
 hello!!
 
 i'm tiwinoh, a 13 year old developer with a passion for old technology. here are some facts about me and what i like:
