@@ -23,9 +23,4 @@ about me
 - pronouns: he/him
 - hobbies: I like biking, coding, reading
 
-feel free to reach out or open an issue if you want to collaborate on retro projects or need help with older platforms.
-
-notes
------
-
-- this README is a starting point; edit it to add links (last.fm, socials) and more details about projects.
+feel free to reach out or open an issue if you want to collaborate or want to discuss about a commission at contact@tiwinoh.com
