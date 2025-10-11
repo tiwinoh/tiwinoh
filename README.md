@@ -3,10 +3,10 @@ hello!!
 i'm tiwinoh, a 13 year old developer with a passion for old technology. here are some facts about me and what i like:
 
 - i am 13 years old
-- i currently use Windows 11 as my main computer operating system and my main phone is a Iphone SE 2nd Gen
+- i currently use Windows 11 as my main computer operating system and my main phone is an iPhone SE 2nd Gen
 - i love biking a lot in the forest...
-- i love playing minecraft and doing videos with my discord friends
-- i enjoy developing minecraft plugins, nextjs website and c# executables...
+- i love playing Minecraft and making videos with my Discord friends
+- i enjoy developing Minecraft plugins, Next.js websites, C# executables...
 
 <!-- Technologies Logos -->
 <p align="left">
@@ -14,6 +14,7 @@ i'm tiwinoh, a 13 year old developer with a passion for old technology. here are
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="web" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" alt="minecraft" width="40" height="40"/>
 </p>
 
