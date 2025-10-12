@@ -3,4 +3,4 @@ const nextConfig = {
   // Configuration par défaut pour Vercel
 }
 
-module.exports = nextConfig
+export default nextConfig
